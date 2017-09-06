@@ -1,3 +1,3 @@
 # gitdemo
 testing
-running jumping
+chang 2 from lab 1
